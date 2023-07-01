@@ -16,7 +16,7 @@ body{
     font-size: 4rem;
     margin-bottom: 0;
 }
-img{
+#image{
     max-width: 100%;
     display: block;
     height: auto;
