@@ -26,7 +26,7 @@ body{
     color: #c7c2c2;
 }
 #image-div{
-    background-image: url(/Images/student.jpg);
+    background-image: url(Images/student.jpg);
     background-blend-mode: overlay;
     background-size: cover;
     background-color: rgb(121, 27, 27);
